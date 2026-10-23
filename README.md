@@ -1,2 +1,5 @@
 # ASRQ_SOST20131_Portfolio
-My e-Portfolio for SOST20131: Answering Social Research Questions with Statistical Models.
+**This is my first repository.**
+
+# About Me
+My name is Bowei Zhang, and I am currently studying **SOST20131: Answering Social Research Questions with Statistical Models**.
